@@ -1,0 +1,125 @@
+*,
+*::after,
+::before{
+    margin: 0;
+padding: 0;
+border: 0;
+}
+body{
+background-image: url(img/John-Towner-USA-North-America-photography-mountains-snowy-peak-landscape-nature-sunset-far-view-clouds-1228983.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position: 50% 50%;
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    color: #ffffff 
+}
+.wpapper{
+    max-width: 1200px;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+}
+img{
+    width: 50%;
+
+}
+.topp{
+    line-height: 40px;
+}
+.top{
+    margin: 1em 20% 1em 20%;
+    padding: 10px;
+background: rgba(0, 0, 0, 0.21);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(4.2px);
+-webkit-backdrop-filter: blur(4.2px);
+border: 1px solid rgba(0, 0, 0, 0.21);
+}
+.box{
+display: flex;
+}
+
+.josefin-sans-textfont {
+font-family: "Josefin Sans", sans-serif;
+font-optical-sizing: auto;
+font-weight: weight;
+font-style: normal;
+}
+
+p1{
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+}
+
+details ul{
+    list-style-position: inside;
+    margin-bottom: 15px;
+}
+details summary{
+    width: 150px;
+    margin: 20px auto 15px auto
+}
+
+.ssa {
+    background: #6b7780;
+    background-image: -webkit-linear-gradient(top, #303f49, #232a2f);
+    background-image: -moz-linear-gradient(top, #303f49, #232a2f);
+    background-image: -ms-linear-gradient(top, #303f49, #232a2f);
+    background-image: -o-linear-gradient(top, #303f49, #232a2f);
+    background-image: linear-gradient(to bottom, #303f49, #232a2f);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    color: #ffffff;
+    font-size: 19px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .ssa:hover {
+    background: #393c3e;
+    background-image: -webkit-linear-gradient(top, #4f626f, #303f49);
+    background-image: -moz-linear-gradient(top, #4f626f, #303f49);
+    background-image: -ms-linear-gradient(top, #4f626f, #303f49);
+    background-image: -o-linear-gradient(top, #4f626f, #303f49);
+    background-image: linear-gradient(to bottom, #4f626f, #303f49);
+    text-decoration: none;
+  }
+
+  .sss{
+    margin: 20px auto 20px auto;
+    padding-bottom: 30px;
+}
+
+summary {
+    background: #6b7780;
+    background-image: -webkit-linear-gradient(top, #5c6d78, #4f626f);
+    background-image: -moz-linear-gradient(top, #5c6d78, #4f626f);
+    background-image: -ms-linear-gradient(top, #5c6d78, #4f626f);
+    background-image: -o-linear-gradient(top, #5c6d78, #4f626f);
+    background-image: linear-gradient(to bottom, #5c6d78, #4f626f);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    color: #ffffff;
+    font-size: 19px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  summary:hover {
+    background: #393c3e;
+    background-image: -webkit-linear-gradient(top, #7a94a5, #5c6d78,);
+    background-image: -moz-linear-gradient(top, #7a94a5, #5c6d78,);
+    background-image: -ms-linear-gradient(top, #7a94a5, #5c6d78,);
+    background-image: -o-linear-gradient(top, #7a94a5, #5c6d78,);
+    background-image: linear-gradient(to bottom, #7a94a5, #5c6d78,);
+    text-decoration: none;
+  }
+
+
